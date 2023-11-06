@@ -1,0 +1,4 @@
+#pacotes node
+node_modules
+# Arquivo com variáveis sensíveis
+.env
